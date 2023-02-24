@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494243304535",
+    "project_id": "test2-velos-p",
+    "storage_bucket": "test2-velos-p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494243304535:android:834281dc6f0df2e83aff12",
+        "android_client_info": {
+          "package_name": "com.example.testpivot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494243304535-u4jstkmjemu733cqhlp8qia3sgks7ni4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testpivot",
+            "certificate_hash": "3f03dbfe1a7ca7a814aff41ad586a1ea06e1b735"
+          }
+        },
+        {
+          "client_id": "494243304535-ld7ijc383066aneglf28du1f9ftmou6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqtG7HSl4lFytJYciznP4qNBjq6kTwWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494243304535-ld7ijc383066aneglf28du1f9ftmou6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
